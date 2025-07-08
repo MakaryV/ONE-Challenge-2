@@ -44,6 +44,7 @@ Este repositorio documenta el análisis exploratorio y descriptivo de los datos 
 
 
 Link de Colab: https://drive.google.com/file/d/1cAI5_RQ2e_4qa7gZlNd9ZZ5xyeSmiyA5/view?usp=sharing
+Link de codigo: https://github.com/MakaryV/ONE-Challenge-2/blob/main/AluraMK.ipynb
 
 ---
 
