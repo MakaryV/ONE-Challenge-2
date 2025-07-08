@@ -24,13 +24,12 @@ Este repositorio documenta el análisis exploratorio y descriptivo de los datos 
 ```
 
 ## 📊 Ejemplos de gráficos e insights
-
-| Imagen                                                | Insight principal                                                                      |
-| ----------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| ![Beneficio neto](imgs/beneficio_por_tienda.png)      | **Tienda 1** encabeza el beneficio neto, pero con la calificación de clientes más baja |
-| ![Ingresos anuales](imgs/ingresos_anuales.png)        | Crecimiento sostenido de **Tienda 2** entre 2021 y 2024                                |
-| ![Costo vs rating](imgs/dispersion_costos_rating.png) | **Tienda 3** logra el mejor equilibrio coste–satisfacción                              |
-| ![Heatmap geográfico](imgs/mapa_calor_ventas.png)     | Alta concentración de ventas en el corredor Bogotá–Medellín                            |
+| Insight principal                                                                      |
+| -------------------------------------------------------------------------------------- |
+| **Tienda 1** encabeza el beneficio neto, pero con la calificación de clientes más baja |
+| Crecimiento sostenido de **Tienda 2** entre 2021 y 2024                                |
+| **Tienda 3** logra el mejor equilibrio coste–satisfacción                              |
+| Alta concentración de ventas en el corredor Bogotá–Medellín                            |
 
 <details>
 <summary>Hallazgos clave</summary>
